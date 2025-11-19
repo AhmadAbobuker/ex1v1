@@ -37,7 +37,7 @@ int main(void) {
     printf("\n");
 
     printf("Even - Odd:\n");
-    printf("please enter 3 integers\n");
+    printf("Please enter 3 integers\n");
     int number1, number2, number3;
     scanf("%d %d %d", &number1, &number2, &number3);
     number1 = number1&1 ;
